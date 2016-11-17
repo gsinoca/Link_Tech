@@ -1,0 +1,39 @@
+p{
+	font-family: verdana;
+}
+#image{
+	position: absolute;
+	top:20%;
+	left:10px;
+}
+img{
+		width: 250px;
+	height: 250px;
+}
+#descrizione{
+	top:20%;
+	position: absolute;
+	left:260px;
+	font-family: verdana;
+	font-size: 12pt;
+	color:grey;
+	padding: 50px;
+}
+#compra p{
+	position: absolute;
+	top:320px;
+	left: 0px;
+	width: 100%;
+	text-align: center;
+	border-color: grey;
+	border-width: 2px;
+	border-radius: 10px;
+	font-family: verdana;
+	font-size: 12pt;
+	color:red;
+	font-style: bold;
+}
+#back a{
+	position: absolute;
+	top: 85%;
+}

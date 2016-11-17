@@ -1,0 +1,41 @@
+
+#middle{
+	position:absolute;
+	top:30%;
+	right: 0;
+	bottom: auto; left: 0;
+	height: 60%;
+}
+
+img{
+	height:70%;
+	display: block;
+	margin: 0 auto;
+}
+
+#ricerca {
+	border-radius: 20px;
+	position: absolute;
+	top:75%;
+	left: 18%;
+	right:auto;
+	height: 30px;
+	width:60%;
+	font-size: 14pt;
+	font-style: italic;
+	padding-left: 10px;
+}
+#ricerca:focus{
+	outline: none;
+}
+#lente{
+	display: block;
+	position: absolute;
+	top:75%;
+	right:17%;
+	left: auto;
+	width: 35px;
+	height: 35px;
+	margin: 0px;
+	cursor:pointer;
+}
